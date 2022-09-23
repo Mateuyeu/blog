@@ -1,5 +1,9 @@
 ---
-title: Cyber Papaya
+title: HOME
+---
+title: CV
+---
+title: About me
 ---
 
 ## Blog cybersécurité
