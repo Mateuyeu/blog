@@ -1,11 +1,5 @@
 ---
-title: HOME
----
----
-title: CV
----
----
-title: About me
+title: HOME | title: About me
 ---
 
 ## Blog cybersécurité
