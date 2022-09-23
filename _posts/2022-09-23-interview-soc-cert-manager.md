@@ -1,3 +1,8 @@
+---
+title: "interview de soc et cert manager"
+date: 2022-09-23
+---
+
 ## interview de soc et cert manager
 
 Dans ce blog vous retrouverez des interviews de manager de SOC et CERT avec les question suivantes : 
