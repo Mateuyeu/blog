@@ -1,5 +1,5 @@
 ---
-title: HOME | title: About me
+title: HOME 
 ---
 
 ## Blog cybersécurité
