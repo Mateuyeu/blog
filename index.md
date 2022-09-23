@@ -1,7 +1,9 @@
 ---
 title: HOME
 ---
+---
 title: CV
+---
 ---
 title: About me
 ---
