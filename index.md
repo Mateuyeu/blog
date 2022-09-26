@@ -2,4 +2,4 @@
 
 Ce blog traite de sujet divers autour de la cybersécurité et de la cyberdéfense.
 
-## [Interviews SOC Managers](../blog/_posts/Update 2022-09-23-interview-soc-cert-manager.md)
+## [Interviews SOC Managers](./blog/Update 2022-09-23-interview-soc-cert-manager.md)
