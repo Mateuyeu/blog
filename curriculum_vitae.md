@@ -59,15 +59,16 @@ score: 315
 
 ## Bénévolats
 **My Human Kit**
-</br>Création d'images généralisées, automatisation du déploiement et des mises à jours, référencement du matériel existant, administration du parc informatique  
+</br>Création d'images généralisées, automatisation du déploiement et des mises à jours, référencement du matériel existant, administration du parc informatique
+
 
 **Hacker Without Border**  
-<br/>Membre actif  
-</br>Membership ID: 293
+Membre actif  
+Membership ID: 293
 
 ## Centre d'intérêts
 Science Fiction/Fantasy, guitare, jeux de rôle sur table (MJ)
 
 ## Langues
-Anglais (B2),
-</br>Allemand (B1)
+Anglais (B2),  
+Allemand (B1)
