@@ -13,8 +13,11 @@ Age : 32 ans
 
 ### ILIANE
 **Analyste SOC** - *06/2022 - aujourd'hui*  
-Mission: analyser et résoudre les incidents de sécurité chez les clients via l'EDR with-secure.  
-Veille vulnérabilités; Threat Hunting; Rédaction de rapport d'incidents critiques  
+Missions:  
+- Analyser et résoudre les incidents de sécurité chez les clients via l'EDR with-secure.  
+- Gestion des mails frauduleux chez le client.
+- Conseils et sensibilisation au enjeux de sécurité  
+- Veille vulnérabilités; Threat Hunting; Rédaction de rapport d'incidents critiques  
 
 
 ### Rectorat de Rennes
@@ -24,9 +27,9 @@ Veille vulnérabilités et propositions d'amélioration des applications.
 **Technos:** Redhat 6/7/8, MySQL8
 
 ### SYSTANCIA
-**Ingénieur cybersécurité en alternance**
-
-Etude des normes et méthodes: **RGPD, ISO27001, EBIOS**
+**Ingénieur cybersécurité en alternance**  
+Etude des normes et méthodes: **RGPD, ISO27001, EBIOS**  
+Missions:
 - Vérifier la conformité selon les exigences
 - Mesurer l'efficacité des dispositifs mis en place
 - Détecter des pistes d'améliorations
@@ -44,7 +47,7 @@ Projet de fin d'année : Application de formation/sensibilisation à la cybersé
 *2013-2015*  
 Université Rennes 2  
 Master 1 Histoire des relations Internationales  
-compétences acquises: analyse, investigation et esprit de synthèse
+Compétences acquises: analyse, investigation et esprit de synthèse
 
 ## Projets personnels
 **Red TEAM**
@@ -59,7 +62,7 @@ score: 315
 
 ## Bénévolats
 **My Human Kit**
-</br>Création d'images généralisées, automatisation du déploiement et des mises à jours, référencement du matériel existant, administration du parc informatique
+</br>Création d'images généralisées Windows et Linux, automatisation du déploiement et des mises à jours, référencement du matériel existant, administration du parc informatique
 
 
 **Hacker Without Border**  
