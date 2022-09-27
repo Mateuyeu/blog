@@ -1,5 +1,3 @@
-# cyber.papaya.bzh blog
+cyber.papaya.bzh blog
 
 Ce blog traite de sujet divers autour de la cybersécurité et de la cyberdéfense.
-
-## [Interviews SOC Managers](./blog/Update 2022-09-23-interview-soc-cert-manager.md)
